@@ -1,0 +1,36 @@
+_repo: William-Jay-and-the-Constitutional-Movement-for-the-Abolition-of-Slavery_39568
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Jay, John
+    birthdate: 1817
+    deathdate: 1894
+    gutenberg_agent_id: '40051'
+    url: http://www.gutenberg.org/2009/agents/40051
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tuckerman, Bayard
+    birthdate: 1855
+    deathdate: 1923
+    gutenberg_agent_id: '6047'
+    url: http://www.gutenberg.org/2009/agents/6047
+description: ''
+gutenberg_issued: '2012-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39568'
+  lccn: '11021724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Antislavery movements -- United States'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcsh 'Jay, William, 1789-1858'
+title: William Jay and the Constitutional Movement for the Abolition of Slavery
+url: http://www.gutenberg.org/ebooks/39568
