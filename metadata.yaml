@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6047'
     url: http://www.gutenberg.org/2009/agents/6047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39568#William-Jay-and-the-Constitutional-Movement-for-the-Abolition-of-Slavery
 gutenberg_issued: '2012-04-29'
 gutenberg_type: Text
 identifiers:
